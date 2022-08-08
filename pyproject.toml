@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "kafka-python-consumer"
+name = "kafka-python-producer"
 version = "0.1.0"
 description = ""
 authors = ["Max Kossatz <mkossatz@redhat.com>"]
